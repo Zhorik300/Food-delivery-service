@@ -1,8 +1,8 @@
 # Food-delivery-service
 
 Members:
-1. Duiseman Ernur Lashinuly
-2. Gulommukhidinov Shokhin Dzhovidovich
+1. Duiseman Yernur Lashynuly
+2. Ghulommuhidinov Shohin Jovidovich
 3. Sagdikyzy Asylzhan
 
 About project:
